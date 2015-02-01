@@ -1,0 +1,9 @@
+#Django DB
+db.sqlite3
+
+#No pyc
+*.pyc
+
+#Settings, WSGI
+scrollr/settings.py
+scrollr/wsgi.py
